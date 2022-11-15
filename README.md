@@ -1,3 +1,3 @@
-# FlaskLogin
+# Flask Login
 
-Funcionalidades de autenticação
+Funcionalidades de autenticação.
